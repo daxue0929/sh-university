@@ -131,3 +131,5 @@ dist
 
 .hbuilderx/
 
+/unpackage/
+.idea/
